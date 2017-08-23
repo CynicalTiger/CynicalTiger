@@ -6,7 +6,7 @@
 
 .app,
 .callout-backdrop {
-    background-image: url("http://i.imgur.com/TLZCRUh.jpg");
+    background-image: url("http://i.imgur.com/Ly3Tzug.jpg");
     background-size: cover !important;
     background-position: center !important;
 }
@@ -15,7 +15,7 @@
     background-size: cover!important;
 }
 #pubs-container:before {
-	background: url("http://i.imgur.com/TLZCRUh.jpg")!important;
+	background: url("http://i.imgur.com/Ly3Tzug.jpg")!important;
     background-size: cover!important;
 }
 .layers,
